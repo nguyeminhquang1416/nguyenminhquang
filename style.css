@@ -1,0 +1,384 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.icon-khoi-6-1 {
+    font-size: 36px;
+    color: #64a19d;
+}
+
+.text-khoi6 {
+    margin-bottom: 118px;
+}
+
+li.slide {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+}
+
+li.click.click-2.an-di-1 {}
+
+li.click {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+}
+
+ul.mieu-ta {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+i.fas.fa-arrow-down {
+    font-size: 36px;
+    cursor: pointer;
+    transition: 1s;
+}
+
+ul.soft {
+    display: flex;
+    list-style: none;
+    margin: auto;
+    width: 400px;
+    margin-bottom: 64px;
+    justify-content: space-between;
+}
+
+.icon-khoi3 {
+    text-align: center;
+    margin-top: 64px;
+    font-size: 36px;
+    background: linear-gradient(180deg, transparent, #efefef);
+    margin-bottom: 48px;
+    transition: 1s;
+    position: absolute;
+    top: 269px;
+    left: 0;
+    width: 100%;
+}
+
+.ji-cx-dc {
+    margin-bottom: 48px;
+    transition: 1s;
+}
+
+.anh-mota-khoi3 {
+    width: 1140px;
+    margin: auto;
+}
+
+img.anh2.anh-mota {
+    width: 200px;
+    margin-left: 22px;
+    box-shadow: 3px 4px 3px 0px #a2a2a2;
+}
+
+.khoi-3 {
+    height: 828px;
+    width: 100%;
+    overflow: hidden;
+}
+
+img.anh-khoi3 {
+    width: 40px;
+    cursor: pointer;
+}
+
+.thong-tin {
+    margin-bottom: 16px;
+    letter-spacing: 1px;
+}
+
+
+
+span.dau-dong {
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Segoe UI;
+}
+
+span.dau-dong {
+    color: #64a19d;
+}
+
+.tieu-de {
+    text-align: center;
+    font-size: 48px;
+    padding-top: 82px;
+    font-weight: 700;
+    font-family: nunito;
+    margin-bottom: 64px;
+    letter-spacing: 8px;
+}
+
+.tieu-de.tieu-de-khoi6 {
+    color: white;
+}
+
+.can-giua-khoi-2 {
+    width: 800px;
+    margin: auto;
+    display: flex;
+    padding-bottom: 100px;
+}
+
+.text-khoi-2 {margin-left: 100px;align-items: center;display: flex;}
+
+img.anh-khoi2 {width: 300px;height: 300px;border-radius: 50%;box-shadow: 3px 5px 8px 3px #00000014;}
+
+.mo-ta-header {
+    font-size: 24px;
+    color: white;
+    margin-top: 24px;
+    text-transform: uppercase;
+    font-family: Segoe UI;
+}
+
+.can-giua-lan-2 {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    width: 404px;
+    margin: auto;
+}
+
+img.anh-header {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+.can-giua {text-align: center;}
+
+i.fas.fa-star {
+    font-size: 32px;
+    margin: 0px 30px;
+    line-height: 0px;
+}
+i.fas.fa-address-card {
+    font-size: 32px;
+    margin: 0px 30px;
+    line-height: 0px;
+    color: #64a19d;
+}
+i.fas.fa-project-diagram {
+    font-size: 32px;
+    margin: 0px 30px;
+    line-height: 0px;
+    color: #64a19d;
+}
+i.fas.fa-file-contract {
+    font-size: 32px;
+    margin: 0px 30px;
+    line-height: 0px;
+}
+
+.icon-sao {color: white;}
+
+.icon-sao.icon-khoi-2 {
+    color: black;
+}
+
+.line {
+    display: flex;
+    width: 300px;
+    margin: auto;
+}
+
+.line {
+    margin-bottom: 64px;
+}
+
+.duong {
+    height: 10px;
+    width: 100px;
+    background: white;
+    border-radius: 5px;
+}
+
+.duong.icon-khoi-2 {
+    background: #64a19d;
+}
+
+
+
+.ten {font-size: 36px;font-weight: 700;font-family: Segoe UI;color: white;margin-top: 3rem;margin-bottom: 1.5rem;}
+
+header {
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(to bottom,rgba(22, 22, 22, 0.7) 0,rgba(22, 22, 22, 0.67) 75%,#161616cf 100%),url(Linh-tinh/1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+p.de-muc {
+    font-size: 18px;
+    margin-left: 36px;
+    line-height: 67px;
+    cursor: pointer;
+}
+
+nav {
+    color: #ffffff82;
+    /* background: aqua; */
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav {height: 72px;text-transform: uppercase;}
+
+.can-phai {
+    display: flex;
+    font-family: nunito;
+    font-weight: 700;
+}
+
+p.logo {
+    font-size: 36px;
+    line-height: 72px;
+    font-weight: 700;
+    font-family: nunito;
+    letter-spacing: 3px;
+    cursor: pointer;
+}
+html{
+    height: 100%;
+    width: 100%;
+}
+body{
+    width: 100%;
+    height: 100%;
+}
+.an-di{
+   /* display: none; */
+   opacity: 0;
+   transition: 1s;
+}
+p.more{
+    font-size: 16px;
+    margin-bottom: .5rem;
+    cursor: pointer;
+}
+.hide{
+   transition: 0.8s;
+   opacity: 0;
+}
+.full{
+    height: 1459px;
+}
+.khoi-3{
+    transition: 1s;
+}
+.di-xuong{
+    margin-top: 695px;
+}
+i.fas.fa-arrow-up {
+    font-size: 36px;
+    cursor: pointer;
+}
+.software{
+    transition: 0.4s;
+}
+.software:hover{
+    transform: scale(1.5) ;
+}
+
+.active {
+    transition: 0.4s;
+   opacity: 1;
+}
+.icon-khoi-6 {
+    margin-top: 110px!important;
+    width: 200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+}
+i.fab.fa-github.icon:hover {
+    background: #64a19d;
+}
+
+i.fab.fa-facebook-f.icon:hover {
+    background: #64a19d;
+}
+
+i.fab.fa-behance.icon:hover {
+    background: #64a19d;
+}
+hr.hr-khoi-6 {
+    border: none;
+    height: 5px;
+    background: #64a19d;
+    width: 50px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.ten-khoi-6 {
+    font-size: 14px;
+    font-weight: 600;
+}
+.khoi-6 {
+    background: linear-gradient(to bottom,rgba(22, 22, 22, 0.7) 0,rgba(22, 22, 22, 0.85) 75%,#161616 100%),url(Linh-tinh/1.jpg);
+    padding-top: 0;
+    background-position: center;
+    background-size: cover;
+}
+.hop-thoai {
+    width: 30%;
+    height: 200px;
+    text-align: center;
+    background: white;
+    border-radius: 8px;
+    padding-top: 35px;
+    box-shadow: inset 0 -5px 0 0px #64a19d;
+}
+.contact {
+    width: 1140px;
+    display: flex;
+    justify-content: space-between;
+    font-family: nunito;
+}
+.icon {font-size: 16px;color: white;border-radius: 50%;background: #2e2e2e;width: 50px;height: 50px;padding: 18px;cursor: pointer;}
+.jicxdc {
+    width: 224px;
+    margin: auto;
+    color: white;
+}
+
+footer {
+    height: 260px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    background: #161616;
+}
+.active-2{
+    background: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 9999;
+    transition: 0.6s;
+    color: black;
+    box-shadow: 0 0 6px 2px #0000003d;
+}
+.active-3{
+    border-bottom: 6px solid #64a19d;
+}
